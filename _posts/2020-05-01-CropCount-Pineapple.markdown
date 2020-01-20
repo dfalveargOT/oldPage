@@ -16,9 +16,9 @@ The CropCount project become in production on early of 2019 at Datarock S.A.S of
 
 ### The process
 #### Version 1.0
-![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCount-V1.0.png)
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCountV1.0.png)
 
-![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp1.5.jpg)
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp15.jpg)
 
 #### Version 2.0
 

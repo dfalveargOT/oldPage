@@ -12,12 +12,16 @@ The importance of technology has been impacting all industrial sectors, such as 
 ### The Why
 The CropCount project become in production on early of 2019 at Datarock S.A.S offices,  on a speech about innovation and process improvement, the big challenge proposed is to create a software to support the engineering team for replacing the manual count of pineapple crops, in that time many people were counting big image taken by drones each plant of this fruit, and an exhausted feeling was present by the team for the tedious and monotonous work, the solution suggested gave them a better and a healthy way to do their job, the results of the project were satisfying improving time and reducing health hand problems in the employers, the same quantity that a person can count, the software do it with less time, for plant counting-recognizing takes around 50 milliseconds.
 
-![Countprocess]({{site.baseurl}}/assets/img/cropcount/Cropcount-Process.png)
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/Cropcount-Process.png)
 
 ### The process
 #### Version 1.0
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCount-V1.0.png)
+
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp1.5.jpg)
+
 #### Version 2.0
 
 
-![Counting]({{site.baseurl}}/assets/img/cropcount/CropCountP3.png)
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCountP3.png)
 

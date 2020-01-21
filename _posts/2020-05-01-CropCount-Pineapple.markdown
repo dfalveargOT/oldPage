@@ -27,7 +27,7 @@ The issues that became important for the development of the second version was, 
 
 All the implementation is available at [CropCount V1.0 repository](https://github.com/dfalveargOT/CropCount_V1.0.git).
 
-![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp15_lateral.jpg)
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp15lateral.jpg)
 
 #### Version 2.0
 

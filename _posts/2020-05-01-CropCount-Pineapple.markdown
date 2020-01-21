@@ -45,3 +45,4 @@ The blocks that compound this solution starts with some GUI tools built-in OpenC
 The evaluation and validation of the complete software have been done in a series of images for different crops locations and hours giving good behavior respect of light and cloud density, the overall performance is about 93% of effectiveness some issues have been encountered by the drone altitude photo shoot and pineapple plant diameter, this is an improvement that will be done to reduce human post-processing, eventually, the application is operative and the goal was completed reducing time from many days to some hours in count as well as human wear. Some images are present below of the process from the user GUI interaction to the final image mark count.
 
 ![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCountP3.png)
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp23.jpg)

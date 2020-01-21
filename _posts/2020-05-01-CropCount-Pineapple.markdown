@@ -31,6 +31,8 @@ All the implementation is available at [CropCount V1.0 repository](https://githu
 
 #### Version 2.0
 
+![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCountV2.0.png)
 
+
+### Results
 ![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCountP3.png)
-

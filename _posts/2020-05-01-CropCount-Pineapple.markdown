@@ -19,6 +19,8 @@ The CropCount project become in production on early of 2019 at Datarock S.A.S of
 The research had two aproaches, the first version was consist of many traditional open-source tools, and the second version was developed for solving some important issues on the performance of the first version.
 
 #### Version 1.0
+This version consists of series of blocks that accomplish the goal of count pineapple crops, in the firsts instance the image has to be load as .jpg or .png format, then is used some color spaces and Fourier transform for show important information of the crops, resalting the characteristics that compound a plant, this step is defined as preprocessing step, suddenly the information is filtered by some morphological operation, and segmentation tools for later pass the data to match core process step, where tools like contours finding and blob detector detect the plants, next is used in filter step some vector coordinates modifications to eliminate duplicated counts and increase the overall performance, finally some space filter condiction as well as counting integration for all layers give the coordinates concerning each plant as well as an image drawing the overall process.
+
 ![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCountV1.0.png)
 
 ![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp15.jpg)

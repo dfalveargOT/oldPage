@@ -25,6 +25,8 @@ This version consists of traditional computer vision tools using OpenCV, Skimage
 
 The issues that became important the development of the second version was, the difficulty to maintain the performance of the software for light and resolution variation, the testing result in a great score for great image conditions (not always present), thus and idea of standardizing it became complicated, so the only way to reduce the effect of light, contrast, and resolution is using deep learning tools.
 
+All the implementation is available at https://github.com/dfalveargOT/CropCount_V1.0.git.
+
 ![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp15.jpg)
 
 #### Version 2.0

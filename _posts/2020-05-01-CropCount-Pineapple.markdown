@@ -5,7 +5,7 @@ date: 2020-05-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: CropCount.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [DeepLearning, Software] # add tag
+tags: [DeepLearning, Software, Open-Source, OpenCV] # add tag
 ---
 The importance of technology has been impacting all industrial sectors, such as massive objects production, healthcare, agriculture, and others, giving the prospect of growth due to the huge hand made methods that exist in the industry, furthermore the budget inverted in tech-education as well as they invest in innovation make possible to companies to do big steps and stablish good bases for the competitive future.
 

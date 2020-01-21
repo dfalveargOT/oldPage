@@ -16,7 +16,7 @@ The CropCount project become in production on early of 2019 at Datarock S.A.S of
 
 ### The process
 
-The research had two aproaches, the first version was consist of many traditional open-source tools, and the second version was developed for solving some important issues on the performance of the first version.
+The research had two approaches, the first version was consist of many traditional open-source tools, and the second version was developed for solving some important issues on the performance of the first version.
 
 #### Version 1.0
 This version consists of traditional computer vision tools using OpenCV, Skimage, numpy and others. In the firsts instance the image has to be load as .jpg or .png format, then is used some color spaces and Fourier transform for show important information of the crops, resalting the characteristics that compound a plant, this step is defined as preprocessing step, suddenly the information is filtered by some morphological operation, and segmentation tools for later pass the data to match core process step, where tools like contours finding and blob detector detect the plants, next is used in filter step some vector coordinates modifications to eliminate duplicated counts and increase the overall performance, finally some space filter condiction as well as counting integration for all layers give the coordinates concerning each plant as well as an image drawing the overall process.

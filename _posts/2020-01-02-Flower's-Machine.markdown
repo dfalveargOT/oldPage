@@ -9,4 +9,4 @@ tags: [Mechatronics, Automatise, Design, Software] # add tag
 
 In construction ....
 
-![Cropcount]({{site.baseurl}}/assets/img/FlowersMachine/Definicion.2.jpg)
+   ![Cropcount]({{site.baseurl}}/assets/img/FlowersMachine/Definicion.2.jpg)

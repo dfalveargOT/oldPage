@@ -40,7 +40,7 @@ The prototype becomes to be an efficient industrial machine, and some improvemen
 
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Animation.gif)
 
-Copyright © 2019 Color & Diseño S.A.S and Cairo S.A. All rights reserved.
+Copyright © 2019 Color & Diseño S.A.S and Capiro S.A. All rights reserved.
 
 
 

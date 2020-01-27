@@ -46,3 +46,6 @@ The evaluation and validation of the complete software have been done in a serie
 
 ![Cropcount]({{site.baseurl}}/assets/img/cropcount/CropCountP3.png)
 ![Cropcount]({{site.baseurl}}/assets/img/cropcount/cp23.jpg)
+
+Copyright © 2019 DataRock S.A.S. All rights reserved.
+

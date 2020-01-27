@@ -13,6 +13,8 @@ Colombia invest in the flower industry for the excellent weather conditions acro
 
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Definicion.2.jpg)
 
+### The research
+
 The research process took 10 months from problem understanding to functional prototype operation, the initial design placed above represents the most general approach of the final idea, all the design was done with real dimensions ready for implement. There were many brainstorming meetings to generate the ideas and take it to the real world, doing experiments with real flowers looking to implement motors, software, electronics, and sensors to achieve the main goal proposed by the company. The team that worked on the project was interdisciplinary, from technical skills people to engineers from company industrial operations to development engineers. I recall the importance of each person without thinking in graduate tittles, great ideas came from very creative people without any bachelor o tech studies.
 
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/FlowersMachine.png)
@@ -24,10 +26,15 @@ The image below shows the recognizing and tracking module, the employer configur
 
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Tracking.jpg)
 
-
+### The Development
 Looking back to the engineering, for each module combine a series of powerful tools, for the motor, actuators, and control we used C language program on Microchip technology, furthermore, it performs communication task with the main brain control, all the design was done in Eagle software and Colcircuitos was the company electronics manufacturer. For the user GUI operation, it was programmed in python, QT over Linux server embedded device, which performs communication and organization tasks, human-machine interaction, and deciding capabilities, this is the manager of all the machine, receives the decisions of the computer vision module composed by a camera and python algorithms to decide the future processing for bouquets of flowers. The under images show the process from prototype design to electronic PCB design and box control building.
 
-
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Electronics.jpg)
+
+### The Results
+
+![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Machine.jpg)
+
+![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Animation.gif)
 
 

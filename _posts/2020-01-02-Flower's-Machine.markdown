@@ -33,6 +33,9 @@ Looking back to the engineering, for each module combine a series of powerful to
 
 ### The Results
 
+The prototype becomes to be an efficient industrial machine, and some improvements were done, but the goal was achieved with great precision, the employers risks were diminished in big amount, the manufacture time improves above 100% for each operator, the minimum sensor control and computer vision technology allows to reduce the maintenance and became important because the machine works for many conditions. Some images of the complete machine were presented, also the bouquets process and belt system transportation.
+
+
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Machine.jpg)
 
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Animation.gif)

@@ -21,9 +21,12 @@ The brain of the machine receives bouquets of flowers and makes the physics proc
 
 The image below shows the recognizing and tracking module, the employer configure in a main screen with GUI interface all the process for the current flower type, then other screen shows and control the computer vision algorithm while the main control algorithm receive the communications of the belt system as well as the intelligent vision system, we can see the flower passing over a camera and continuing to the procedures.
 
+
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Tracking.jpg)
 
-Looking back to the engineering for each module combine a series of powerful tools, for the motor, actuators, and control we used C language program on Microchip technology, furthermore, it performs communication task with the main brain control, all the design was done in Eagle software and Colcircuitos was the company electronics manufacturer. For the user GUI operation, it was programmed in python, QT over Linux server embedded device, which performs communication and organization tasks, human-machine interaction, and deciding capabilities, this is the manager of all the machine, receives the decisions of the computer vision module composed by a camera and python algorithms to decide the future processing for bouquets of flowers. The under images show the process from prototype design to electronic PCB design and box control building.
+
+Looking back to the engineering, for each module combine a series of powerful tools, for the motor, actuators, and control we used C language program on Microchip technology, furthermore, it performs communication task with the main brain control, all the design was done in Eagle software and Colcircuitos was the company electronics manufacturer. For the user GUI operation, it was programmed in python, QT over Linux server embedded device, which performs communication and organization tasks, human-machine interaction, and deciding capabilities, this is the manager of all the machine, receives the decisions of the computer vision module composed by a camera and python algorithms to decide the future processing for bouquets of flowers. The under images show the process from prototype design to electronic PCB design and box control building.
+
 
 ![FlowersMachine]({{site.baseurl}}/assets/img/FlowersMachine/Electronics.jpg)
 

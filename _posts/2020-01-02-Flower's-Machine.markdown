@@ -14,3 +14,5 @@ Colombia invest in the flower industry for the excellent weather conditions acro
 ![Cropcount]({{site.baseurl}}/assets/img/FlowersMachine/Definicion.2.jpg)
 
 The research process took 10 months from problem understanding to functional prototype operation, the initial design placed above represents the most general approach of the final idea, all the design was done with real dimensions ready for implement. There was many brainstorming meetings to generate the ideas and take it to the real world, doing experiments with real flowers looking to implement motors, software, electronics, and sensors to achieve the main goal proposed by the company. The team that worked on the project was interdisciplinar, from technical skills people to engineers from company industrial operations to development engineers. I recall the important of each person without thinking in graduate tittles, great ideas came from very creative people without any bachelor o tech studies.
+
+![Cropcount]({{site.baseurl}}/assets/img/FlowersMachine/FlowersMachine.png)
